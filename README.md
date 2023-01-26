@@ -1,3 +1,4 @@
 # PetSaveOnboarding
 
-A description of this package.
+Package for PetSave project.
+Only for iOS 15+.
